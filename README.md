@@ -9,10 +9,13 @@ This course has so far been the gold standard for all Machine Learning Practitio
 
 
 # How to use?
-  -> Open Octave/ MATLAB. You could also make an account on MATLAB online.
-  -> Clone repository in your system.
-  -> Go to File Explorer and set the folder as the current directory.
-  -> Run the algorithm by clicking the play button in the editor.
+Open Octave/ MATLAB. You could also make an account on MATLAB online.
+
+Clone repository in your system.
+
+Go to File Explorer and set the folder as the current directory.
+
+Run the algorithm by clicking the play button in the editor.
 
 # Project Status
 The is done along with the 12 week course and I have received a completion certificate for it already.
